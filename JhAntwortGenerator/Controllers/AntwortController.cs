@@ -10,7 +10,8 @@ namespace JhAntwortGenerator.Controllers
 {
     [Consumes("application/json", "text/plain", "multipart/form-data", "application/x-www-form-urlencoded")]
     [Produces("text/html")]
-    [Route("[controller]")]
+    //[Route("[controller]")]
+    [Route("/")]
     [ApiController]
     public class AntwortController : ControllerBase
     {
