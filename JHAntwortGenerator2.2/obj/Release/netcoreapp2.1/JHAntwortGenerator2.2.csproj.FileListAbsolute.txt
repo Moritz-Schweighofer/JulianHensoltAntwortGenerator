@@ -1,0 +1,16 @@
+C:\Users\Karl\GitHub\JulianHensoltAntwortGenerator\JHAntwortGenerator2.2\bin\Release\netcoreapp2.1\appsettings.Development.json
+C:\Users\Karl\GitHub\JulianHensoltAntwortGenerator\JHAntwortGenerator2.2\bin\Release\netcoreapp2.1\appsettings.json
+C:\Users\Karl\GitHub\JulianHensoltAntwortGenerator\JHAntwortGenerator2.2\bin\Release\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Karl\GitHub\JulianHensoltAntwortGenerator\JHAntwortGenerator2.2\bin\Release\netcoreapp2.1\JHAntwortGenerator2.2.deps.json
+C:\Users\Karl\GitHub\JulianHensoltAntwortGenerator\JHAntwortGenerator2.2\bin\Release\netcoreapp2.1\JHAntwortGenerator2.2.runtimeconfig.json
+C:\Users\Karl\GitHub\JulianHensoltAntwortGenerator\JHAntwortGenerator2.2\bin\Release\netcoreapp2.1\JHAntwortGenerator2.2.runtimeconfig.dev.json
+C:\Users\Karl\GitHub\JulianHensoltAntwortGenerator\JHAntwortGenerator2.2\bin\Release\netcoreapp2.1\JHAntwortGenerator2.2.dll
+C:\Users\Karl\GitHub\JulianHensoltAntwortGenerator\JHAntwortGenerator2.2\bin\Release\netcoreapp2.1\JHAntwortGenerator2.2.pdb
+C:\Users\Karl\GitHub\JulianHensoltAntwortGenerator\JHAntwortGenerator2.2\obj\Release\netcoreapp2.1\JHAntwortGenerator2.2.csprojAssemblyReference.cache
+C:\Users\Karl\GitHub\JulianHensoltAntwortGenerator\JHAntwortGenerator2.2\obj\Release\netcoreapp2.1\JHAntwortGenerator2.2.RazorAssemblyInfo.cache
+C:\Users\Karl\GitHub\JulianHensoltAntwortGenerator\JHAntwortGenerator2.2\obj\Release\netcoreapp2.1\JHAntwortGenerator2.2.RazorAssemblyInfo.cs
+C:\Users\Karl\GitHub\JulianHensoltAntwortGenerator\JHAntwortGenerator2.2\obj\Release\netcoreapp2.1\JHAntwortGenerator2.2.AssemblyInfoInputs.cache
+C:\Users\Karl\GitHub\JulianHensoltAntwortGenerator\JHAntwortGenerator2.2\obj\Release\netcoreapp2.1\JHAntwortGenerator2.2.AssemblyInfo.cs
+C:\Users\Karl\GitHub\JulianHensoltAntwortGenerator\JHAntwortGenerator2.2\obj\Release\netcoreapp2.1\JHAntwortGenerator2.2.RazorTargetAssemblyInfo.cache
+C:\Users\Karl\GitHub\JulianHensoltAntwortGenerator\JHAntwortGenerator2.2\obj\Release\netcoreapp2.1\JHAntwortGenerator2.2.dll
+C:\Users\Karl\GitHub\JulianHensoltAntwortGenerator\JHAntwortGenerator2.2\obj\Release\netcoreapp2.1\JHAntwortGenerator2.2.pdb

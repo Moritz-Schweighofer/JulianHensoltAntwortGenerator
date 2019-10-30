@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29411.108
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JhAntwortGenerator", "JhAntwortGenerator\JhAntwortGenerator.csproj", "{BDF648A7-D6B7-4D7C-B11B-9AB11CEE77D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JhAntwortGenerator", "JhAntwortGenerator\JhAntwortGenerator.csproj", "{BDF648A7-D6B7-4D7C-B11B-9AB11CEE77D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JHAntwortGenerator2.2", "JHAntwortGenerator2.2\JHAntwortGenerator2.2.csproj", "{42E3DF1A-BEC0-42C0-99DC-2E8DF3870ED8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{BDF648A7-D6B7-4D7C-B11B-9AB11CEE77D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDF648A7-D6B7-4D7C-B11B-9AB11CEE77D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDF648A7-D6B7-4D7C-B11B-9AB11CEE77D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42E3DF1A-BEC0-42C0-99DC-2E8DF3870ED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42E3DF1A-BEC0-42C0-99DC-2E8DF3870ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42E3DF1A-BEC0-42C0-99DC-2E8DF3870ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42E3DF1A-BEC0-42C0-99DC-2E8DF3870ED8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
